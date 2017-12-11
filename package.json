@@ -1,0 +1,22 @@
+{
+  "name": "cross-var-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "node_modules/.bin/cross-var echo $npm_package_version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arlenyan/cross-var-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arlenyan/cross-var-issue/issues"
+  },
+  "homepage": "https://github.com/arlenyan/cross-var-issue#readme",
+  "dependencies": {
+    "cross-var": "^1.1.0"
+  }
+}
