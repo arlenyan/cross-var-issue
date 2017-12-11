@@ -58,3 +58,5 @@ npm ERR! There is likely additional logging output above.
 npm ERR! Please include the following file with any support request:
 npm ERR!     /Users/arlen/.npm/_logs/2017-12-11T23_48_24_682Z-debug.log
 ```
+
+If you clone the repo to `~/code` instead of `~/src` then it works as intended.
